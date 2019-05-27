@@ -1,4 +1,4 @@
-# line-bot-g-volleyball
+# GVolleyballTeam
 A Line bot representing daily and funny stories of a girls' volleyball team. The events presented are based on true stories.
 
 # QR Code
